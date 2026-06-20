@@ -48,15 +48,7 @@ data/
 README.md
 ```
 
-## Dataset
 
-Source: Kaggle dataset `ryandinh/agricultural-production-optimization`
-
-The dataset is included locally in:
-
-```text
-data/crop_recommendation.csv
-```
 
 ## How to Run
 
